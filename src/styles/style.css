@@ -1,0 +1,58 @@
+/* ==============================
+ヘッダー
+================================= */
+
+.header {
+  color: white;
+  background-color: black;
+  text-align: center;
+  padding: 30px;
+  margin-bottom: 40px;
+}
+
+.header a {
+  text-decoration: none;
+}
+
+/* ==============================
+メインコンテンツ
+================================= */
+
+.main {
+  min-height: 600px;
+  text-align: center;
+  font-size: 2px;
+}
+
+.button {
+  width: 300px;
+  height: 100px;
+  font-size: 20px;
+}
+
+/* ==============================
+ごろごろカウンター
+================================= */
+
+.countButton {
+  width: 200px;
+  height: 100px;
+  font-size: 40px;
+  padding: 20px;
+}
+
+.countNumber {
+  font-size: 100px;
+}
+
+/* ==============================
+フッター
+================================= */
+
+.footer {
+  color: white;
+  background-color: black;
+  text-align: center;
+  padding: 30px;
+  margin-top: 40px;
+}
