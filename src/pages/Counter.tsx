@@ -22,6 +22,7 @@ const Counter: React.VFC = () => {
         <button onClick={handleDecrement} className="countButton">-</button>
         <button onClick={handleIncrement} className="countButton">+</button>
       </div>
+      <Footer />
     </div>
   )
 }

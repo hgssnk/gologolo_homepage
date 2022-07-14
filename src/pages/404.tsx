@@ -1,6 +1,11 @@
+import Header from 'common/Header'
+
 const NotFound = () => {
   return (
-    <div>404 error</div>
+    <div>
+      <Header text="404 error"/>
+      <p>404 error</p>
+    </div>
   )
 }
 

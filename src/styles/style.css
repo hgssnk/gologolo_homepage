@@ -50,9 +50,12 @@
 ================================= */
 
 .footer {
-  color: white;
-  background-color: black;
+  background-color: none;
   text-align: center;
   padding: 30px;
   margin-top: 40px;
+}
+
+.footer img {
+  width: 80px;
 }
